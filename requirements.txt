@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+openpyxl
+pillow
+pytesseract
+sqlalchemy
+openai
+
+boto3
+
+python-dotenv
+
+groq
